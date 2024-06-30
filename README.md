@@ -20,7 +20,7 @@ The UR3 CobotOps dataset is a comprehensive collection of data including:
 - **Tasks:** Classification, Regression, Clustering
 
 ## Files in the Repository
-1. `dataset`: The dataset used for analysis.
+1. `Dataset`: The dataset used for analysis.
 2. `UR3 CobotOps - UCI Machine Learning Repository.pdf`: Documentation explaining the dataset and its variables.
 3. `Fuzzy Cognitive Maps.pdf`: Scientific paper providing theoretical background on Fuzzy Cognitive Maps (FCMs) used in the analysis.
 4. `UR3 CobotOps Clustering.ipynb`: Jupyter notebook with code and visualizations for clustering analysis.
