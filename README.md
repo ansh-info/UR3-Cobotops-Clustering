@@ -46,7 +46,7 @@ To reproduce the analysis, follow these steps:
 1. Clone the repository:
     ```sh
     git clone https://github.com/yourusername/ur3-cobotops-clustering.git
-    cd ur3-cobotops-clustering
+    cd UR3-Cobotops-Clustering
     ```
 
 2. Install the required dependencies:
@@ -56,7 +56,7 @@ To reproduce the analysis, follow these steps:
 
 3. Run the Jupyter notebook:
     ```sh
-    jupyter notebook UR3_CobotOps_Clustering_Annotated.ipynb
+    jupyter notebook UR3 CobotOps Clustering.ipynb
     ```
 
 ## References
