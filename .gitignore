@@ -1,7 +1,2 @@
-#ignore
-#thesefiles
-#MacSpecificFiles
-#Jupyter checkpoints
 .DS_Store
 .ipynb_checkpoints
-
